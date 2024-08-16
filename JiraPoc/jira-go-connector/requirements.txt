@@ -1,0 +1,4 @@
+go get github.com/joho/godotenv
+go get golang.org/x/oauth2
+go get golang.org/x/oauth2/jira
+go get github.com/go-oauth2/oauth2/v4
